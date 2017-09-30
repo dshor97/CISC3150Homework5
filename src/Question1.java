@@ -15,6 +15,7 @@ public class Question1 {
 			if(checkInCircle(new Point(Math.random() ,Math.random()),origin)){
 				numInCircle = new BigInteger(numInCircle.add(add1).toString());
 			}
+			System.out.println(numPoints);
 			numPoints = new BigInteger (numPoints.add(sub1).toString());
 		}
 		
