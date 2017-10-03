@@ -3,8 +3,8 @@ import java.math.BigInteger;
 
 public class Question1 {
 	public static void main(String[] args){
-		BigInteger totalPoints = new BigInteger("4000000000");
-		BigInteger numPoints = new BigInteger("4000000000");
+		BigInteger totalPoints = new BigInteger("4000000");
+		BigInteger numPoints = new BigInteger("4000000");
 		BigInteger numInCircle = new BigInteger("0");
 		BigInteger val = new BigInteger("0");
 		BigInteger sub1 = new BigInteger("-1");
